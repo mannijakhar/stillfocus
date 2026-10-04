@@ -1,0 +1,14 @@
+.DS_Store
+.build/
+.build-cache/
+dist/
+work/
+*.app/
+*.log
+.env
+.env.*
+*.pem
+*.p12
+*.mobileprovision
+history.json
+*History.csv
